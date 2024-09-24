@@ -1,0 +1,129 @@
+ls
+ssh-keygen
+l
+cat \$HOME/.ssh/*.pub
+cat .ssh/*.pub
+ls
+ls -l
+cd repogit
+ls
+ls -l
+man rm
+ls
+ls -l
+git clone git@github.com:TomasSassone/TP_AySO.git
+ls
+cd TP_AySO
+ls
+pwd
+ls -l
+cat /etc/os-release 
+man grep
+grep /etc/os-release 
+ls
+ls -l
+l
+qdfasdasdf}
+assdsasdadasqwdvghwrthwertgijo  hrtgbjertgb hosuwysrtgbyhios-}
+cat /etc
+ls
+cd repogit/
+ls
+cd TP_AySO/
+cat /etc/os-release 
+grep -i Home_url /etc/os-release 
+whoami
+echo "Usuario=$(whoami) > datos_usuario.txt
+
+
+s
+
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+cat datos_usuario.txt 
+history 
+git add .
+git config --global user.email "tomassassone22@gmail.com"
+git config --global user.name "TomasSassone"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+grep cpu -i /proc/cpuinfo
+grep model name -i /proc/cpuinfo
+grep model name tail -n1 -i /proc/cpuinfo
+grep model name -i /proc/cpuinfo tail -n1
+grep model name -i /proc/cpuinfo
+tail -n1 grep model name -i /proc/cpuinfo
+grep "model name" -i /proc/cpuinfo
+grep "model name" -i /proc/cpuinfo | tail -n1
+ls
+grep "model name" -i /proc/cpuinfo | tail -n1 >> datos_usuario.txt 
+ls
+cat datos_usuario.txt 
+git add datos_usuario.txt 
+git commit -m "feat: Añadiendo información de CPU"
+git status
+grep man
+man grep
+cat /etc/passwd
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head
+clear
+grep -v "nologin" /etc/passwd | head
+man sort
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada.txt
+ls
+cat lista_ordenada.txt 
+clear
+git add lista_ordenada.txt 
+git commit -m "ADD: Listado de usuarios ordenada"
+echo "tcpdump" > comando_dump_net
+echo "Comando para buscar: man -k 'network traffic capture' o man tcpdump" >> comando_dump_net
+ls
+cat comando_dump_net 
+man -k 'network traffic capture'
+man tcpdump
+git add comando_dump_net 
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+man HereDOc
+cat <<EOL >> README.md
+Alumno: Tomás Santiago Sassone
+División: 324
+Turno: Noche
+EOL
+
+ls
+cat README.md 
+lsi sagit status
+ls
+git status clear
+clearaller
+ssss
+ls
+gtttus
+s
+kskskaskagt
+le
+cl
+eeercerer
+carcleeeeeer
+l
+git status
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+git status
+git log
+ls
+cat README.md 
+git add README.md 
+git commit -m "ADD: README actualizado"
+git add README.md 
+git commit -m "docs: agregar información sobre el alumno y la división en el README"
+echo . >> README.md 
+git add README.md 
+git commit -m "docs: agregar información sobre el alumno y la división en el README"
+ls
+history -a
