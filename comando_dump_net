@@ -1,0 +1,2 @@
+tcpdump
+Comando para buscar: man -k 'network traffic capture' o man tcpdump
