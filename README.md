@@ -1,4 +1,4 @@
-# TP_AySOAlumno: Tomás Santiago Sassone
-División: 324
+# TP_AySO
+Alumno: Tomás Santiago Sassone
+División: 311
 Turno: Noche
-.
